@@ -2,7 +2,6 @@
 layout: page
 title: DDL-Mamba 
 description: Geometric Residual Learning for 3D Medical Image Segmentation.
-img: assets/img/ddl_mamba.png
 importance: 4
 category: active research
 ---
