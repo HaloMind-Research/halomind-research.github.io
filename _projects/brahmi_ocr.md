@@ -2,7 +2,6 @@
 layout: page
 title: Ashokan Brahmi Script OCR
 description: Degraded stone inscription recognition via SimCLR, CRNN, and Morphological Domain Randomization.
-img: assets/img/brahmi_pipeline.png
 importance: 3
 category: active research
 ---
