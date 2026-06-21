@@ -2,7 +2,6 @@
 layout: page
 title: Ionospheric TEC Forecasting (CNN-DDL)
 description: Zero-shot cross-solar-cycle generalization using Deep Delta Learning and Conformal Prediction.
-img: assets/img/tec_architecture.png
 importance: 1
 category: active research
 ---
