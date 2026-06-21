@@ -2,7 +2,6 @@
 layout: page
 title: AHF-RBFNet
 description: Attention-Guided Hierarchical Fusion U-Net with Learnable RBF Fuzzy Membership.
-img: assets/img/ahf_rbfnet.png
 importance: 2
 category: active research
 ---
