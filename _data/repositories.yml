@@ -1,5 +1,3 @@
-# _data/repositories.yml
-
 github_users:
   - Latchan-Ch
   - amankumar12S
@@ -7,8 +5,9 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - HaloMind-Research/halomind-research.github.io
-  # Add your public research repositories below once you push the code:
-  # - HaloMind-Research/DDL-Vision-Mamba
-  # - HaloMind-Research/AHF-RBFNet
-  # - Latchan-Ch/your-personal-repo-name
+  - HaloMind-Research/DDV-GNet-Space
+  - HaloMind-Research/DDV-Mamba_for_Efficient_Remote_Sensing
+  - HaloMind-Research/SafeMed-SSL
+  - HaloMind-Research/Conformal-Satellite-Change-Detection
+  - HaloMind-Research/Interpretable-Solar-Defect-Detection
+  - HaloMind-Research/Optimizing-Deep-Learning-for-Brain-Tumor-Classification
