@@ -6,14 +6,14 @@ subtitle: <a href='#'>Hybrid Architectures & Lightweight Optimization | Machine 
 
 profile:
   align: right
-  image: # Leave blank until you have a logo
+  image: halomind_logo.png # Leave blank until you have a logo
   image_circular: false 
   more_info: >
     <p>Independent Research Group</p>
     <p>halomind.research.group@gmail.com</p>
 
-selected_papers: true 
-social: true 
+selected_papers: false
+social: false
 
 announcements:
   enabled: false 
