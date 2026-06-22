@@ -12,8 +12,8 @@ profile:
     <p>Independent Research Group</p>
     <p>halomind.research.group@gmail.com</p>
 
-selected_papers: true 
-social: true 
+selected_papers: false
+social: false
 
 announcements:
   enabled: false 
