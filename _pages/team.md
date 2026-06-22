@@ -51,7 +51,7 @@ description: The core execution team and active contributors of the Halo Mind Re
   </div>
   <div class="col-sm-9">
     <h4 class="mt-2">Ayush Anand <span style="font-size: 0.7em; color: gray;">— Applied AI & Vision Researcher</span></h4>
-    <p style="margin-bottom: 5px;"><strong>Focus:</strong> Satellite Imagery, Interpretable AI, Space-AI, Computer Vision.<br>
+    <p style="margin-bottom: 5px;"><strong>Focus:</strong> Satellite Imagery, Interpretable AI, Space AI, Computer Vision.<br>
     <strong>Email:</strong> <a href="mailto:anandayush1009@gmail.com">anandayush1009@gmail.com</a></p>
     <p>Engineers applied computer vision frameworks for remote sensing and extreme environments. Drives targeted, high-impact research cycles—specifically contributing to fuzzy rule extraction and interpretable defect detection architectures for solar and satellite networks.</p>
   </div>
