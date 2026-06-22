@@ -45,7 +45,7 @@ description: The core execution team and active contributors of the Halo Mind Re
   <div class="col-sm-9">
     <h4 class="mt-2">Hrishikesh Das <span style="font-size: 0.7em; color: gray;">— Research Intern</span></h4>
     <p style="margin-bottom: 5px;"><strong>Focus:</strong> Empirical Evaluation & Applied Systems Verification.<br>
-    <strong>Email:</strong> <a href="mailto:insert_hrishi_email@gmail.com">insert_hrishi_email@gmail.com</a></p>
+    <strong>Email:</strong> <a href="mailto:hrishikeshdas366@gmail.com">hrishikeshdas366@gmail.com</a></p>
     <p>Assists in executing rigorous baseline models and evaluating applied frameworks, notably contributing to cyber-physical security frameworks and interpretable defect detection architectures.</p>
   </div>
 </div>
@@ -57,7 +57,7 @@ description: The core execution team and active contributors of the Halo Mind Re
   <div class="col-sm-9">
     <h4 class="mt-2">Ankona Mukherjee <span style="font-size: 0.7em; color: gray;">— Research Intern</span></h4>
     <p style="margin-bottom: 5px;"><strong>Focus:</strong> Data Engineering & Pipeline Testing.<br>
-    <strong>Email:</strong> <a href="mailto:insert_ankona_email@gmail.com">insert_ankona_email@gmail.com</a></p>
+    <strong>Email:</strong> <a href="mailto:itsmeankona@gmail.com">itsmeankona@gmail.com</a></p>
     <p>Contributes to dataset curation and empirical testing for high-resolution spatial tasks, including conformal prediction wrappers for remote sensing and urban change detection.</p>
   </div>
 </div>
