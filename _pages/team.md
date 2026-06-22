@@ -75,4 +75,3 @@ description: The core execution team and active contributors of the Halo Mind Re
 
 <br>
 <hr>
-<p style="font-size: 0.85em; color: gray; text-align: center; margin-top: 20px;"><em>Halo Mind operates on a strict meritocracy. Authorship and operational titles are awarded exclusively based on rigorous technical execution and mathematically sound contributions to our open-source codebase.</em></p>
