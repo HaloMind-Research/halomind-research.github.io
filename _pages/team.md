@@ -7,7 +7,7 @@ nav_order: 2
 description: The core execution team and active contributors of the Halo Mind Research Group.
 ---
 
-### Core Execution Team
+### Core Executive Team
 <hr>
 
 <div class="row mb-5">
