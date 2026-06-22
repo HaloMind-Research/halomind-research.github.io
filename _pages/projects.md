@@ -1,6 +1,6 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
 description: The fundamental architectural engineering pipelines of Halo Mind.
 nav: true
