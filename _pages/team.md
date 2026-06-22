@@ -16,7 +16,7 @@ description: The core execution team and active contributors of the Halo Mind Re
   </div>
   <div class="col-sm-9">
     <h4 class="mt-2">Latchan Chhetri <span style="font-size: 0.7em; color: gray;">— Lead Research Architect</span></h4>
-    <p style="margin-bottom: 5px;"><strong>Focus:</strong> Theoretical Formulation, Developing Architectures, Coding, Sub-quadratic Mechanisms, Geometric Manifold Stabilization, Strategist.<br>
+    <p style="margin-bottom: 5px;"><strong>Focus:</strong> Theoretical Formulation, Developing Architectures, Sub-quadratic Mechanisms, Geometric Manifold Stabilization, Coding, Strategist.<br>
     <strong>Email:</strong> <a href="mailto:latchanchhetri19@gmail.com">latchanchhetri19@gmail.com</a></p>
     <p>Directs the fundamental scientific direction of the collective. Specializes in engineering hardware-efficient neural mechanisms, deep sequence modeling, and bridging continuous physical dynamics with discrete neural computation.</p>
   </div>
@@ -33,9 +33,20 @@ description: The core execution team and active contributors of the Halo Mind Re
     <p>Translates theoretical architectures into robust, hardware-optimized code. Manages complex spatial data pipelines and integrates advanced statistical frameworks to establish provable reliability and distribution-free uncertainty quantification.</p>
   </div>
 </div>
+<div class="row mb-5">
+  <div class="col-sm-3 text-center">
+    <img src="{{ '/assets/img/pic5.jpeg' | relative_url }}" class="img-fluid rounded-circle z-depth-1" alt="Dishant Das" style="max-width: 150px; aspect-ratio: 1/1; object-fit: cover;">
+  </div>
+  <div class="col-sm-9">
+    <h4 class="mt-2">Dishant Das <span style="font-size: 0.7em; color: gray;">— Research Engineer</span></h4>
+    <p style="margin-bottom: 5px;"><strong>Focus:</strong> Physics-Informed Vision Models, Edge AI Optimization, Generative Architectures, Coding.<br>
+    <strong>Email:</strong> <a href="mailto:dasdishant5@gmail.com">dasdishant5@gmail.com</a></p>
+    <p>Engineers lightweight computer vision architectures for extreme environments. Specializes in hardware-level model optimization (TensorRT, edge power budgets) and contributes to the core development of geometric residual learning frameworks like DDL-Mamba.</p>
+  </div>
+</div>
 
 <br>
-### Junior Contributors & Research Interns
+### Junior Contributors / Research Interns
 <hr>
 
 <div class="row mb-5">
