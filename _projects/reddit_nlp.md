@@ -4,7 +4,7 @@ title: Reddit Climate NLP Analysis (2015-2025)
 description: Large-scale data-driven analysis to quantify long-term textual evolution and human emotion modeling.
 img: assets/img/reddit.png
 importance: 3
-category: research
+category: active research
 ---
 <div class="row justify-content-sm-center">
   <div class="col-sm-12 mt-3 mt-md-0">
