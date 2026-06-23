@@ -16,7 +16,7 @@ description: The core execution team and active contributors of the Halo Mind Re
   </div>
   <div class="col-sm-9">
     <h4 class="mt-2">Latchan Chhetri <span style="font-size: 0.7em; color: gray;">— Lead Research Architect</span></h4>
-    <p style="margin-bottom: 5px;"><strong>Focus:</strong> Theoretical Formulation, Developing Architectures, Sub-quadratic Mechanisms, Geometric Manifold Stabilization, Coding, Strategist.<br>
+    <p style="margin-bottom: 5px;"><strong>Focus:</strong> Theoretical Formulation, Developing Architectures, Sub-quadratic Mechanisms (SSM's), Geometric Manifold Stabilization, Coding, Strategist.<br>
     <strong>Email:</strong> <a href="mailto:latchanchhetri19@gmail.com">latchanchhetri19@gmail.com</a></p>
     <p>Directs the fundamental scientific direction of the collective. Specializes in engineering hardware-efficient neural mechanisms, deep sequence modeling, and bridging continuous physical dynamics with discrete neural computation.</p>
   </div>
