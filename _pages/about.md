@@ -8,8 +8,6 @@ profile:
   align: right
   image: halomind_logo.png
   image_circular: false
-  more_info: >
-    <p>contact: halomind.research.group@gmail.com</p>
 
 selected_papers: false
 social: false
