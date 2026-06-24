@@ -13,7 +13,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
  AI, Deep Learning, State Space Models, NLP, Computer Vision, Edge AI, Research, and more..
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 📑 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: assets/img/halomind_logo.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://halomind-research.github.io # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/. Leave blank for root
