@@ -13,3 +13,31 @@ We are open to collaborations, research inquiries, and academic discussions.
 
 * **Email:** <a href="mailto:halomind.research.group@gmail.com">halomind.research.group@gmail.com</a>
 * **LinkedIn:** <a href="https://www.linkedin.com/company/halomind-research/" target="_blank">Halo Mind Research Group</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
