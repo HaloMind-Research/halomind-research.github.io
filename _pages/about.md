@@ -2,23 +2,23 @@
 layout: about
 title: Halo Mind
 permalink: /
-subtitle: <a href='#'>Hybrid Architectures & Lightweight Optimization | Machine Intelligence & Neural Dynamics</a>
+subtitle: "<a href='#'>Hybrid Architectures & Lightweight Optimization | Machine Intelligence & Neural Dynamics</a>"
 
 profile:
   align: right
-  image: halomind_logo.png # Leave blank until you have a logo
-  image_circular: false 
-  more_info: > 
+  image: halomind_logo.png
+  image_circular: false
+  more_info: >
     <p>contact: halomind.research.group@gmail.com</p>
 
 selected_papers: false
 social: false
 
 announcements:
-  enabled: false 
+  enabled: false
 
 latest_posts:
-  enabled: false 
+  enabled: false
 ---
 
 Halo Mind is an independent, interdisciplinary research group bridging continuous physical dynamics with discrete neural computation. We engineer hardware-efficient neural mechanisms, like sub-quadratic **State Space Models (Mamba)**, **Deep Learning Architectures**, etc, designed to process high-throughput, volatile data streams, for critical environments.
