@@ -7,8 +7,6 @@ nav: true
 nav_order: 2
 ---
 
-<div class="publications">
-
 ## Core Group Research
 <br><br>
 
@@ -59,5 +57,3 @@ L. Chhetri, A. Datta, P. Ghosal. (2026). "Attention-Enhanced Swin Transformers f
 
 ### [Intrinsic Neural Firewalls for Cyber-Physical Systems: Robust Anomaly Rejection via Deep Delta Residual Overwrites](/publications/neural-firewalls/)
 R. Das, L. Chhetri, A. Kumar, P. Ghosal. (2026). "Intrinsic Neural Firewalls for Cyber-Physical Systems: Robust Anomaly Rejection via Deep Delta Residual Overwrites." WIN 6.0 (Accepted for Oral Presentation).
-
-</div>
