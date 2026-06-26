@@ -51,7 +51,7 @@ S. R. Verma, A. Kumar, A. Anand, H. Das, L. Chhetri. (2026). "Interpretable Sola
 <br><br>
 
 ### [ClearVision: A Physics-Informed Lightweight GAN for Real-Time Enhancement of Turbid Underwater Imagery](/publications/clearvision/)
-R. Singh, D. Das, A. Pradhan. (2026). "ClearVision: A Physics-Informed Lightweight GAN for Real-Time Enhancement of Turbid Underwater Imagery." IEEE OCEANS (Accepted for Oral Presentation).
+R. Singh, D. Das, A. Pradhan. (2026). "ClearVision: A Physics-Informed Lightweight GAN for Real-Time Enhancement of Turbid Underwater Imagery." IEEE OCEANS Sanya (Accepted for Oral Presentation).
 
 
 ### [Attention-Enhanced Swin Transformers for Robust Brain Tumor Classification Under Patient-Level Data Splitting](/publications/swin-tumor/)
