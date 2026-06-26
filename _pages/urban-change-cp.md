@@ -16,7 +16,7 @@ Satellite-based urban change detection enables an emerging generation of geospat
 * **Operational Reliability Metrics:** Provided a formally justified, computationally lightweight system enabling automated flagging of geometrically ambiguous pixels (the 10% EPS tail) for human-in-the-loop disaster assessment and geospatial intelligence workflows.
 
 <br>
-<a href="https://github.com/HaloMind-Research/Conformal-Satellite-Change-Detection" class="btn btn-sm btn-outline">Code & Resources</a>
+<a href="https://github.com/HaloMind-Research/Conformal-Satellite-Change-Detection" class="btn btn-primary">Code & Resources</a>
 
 <hr>
 
