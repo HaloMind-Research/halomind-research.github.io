@@ -16,7 +16,7 @@ Modern Industrial Cyber-Physical Systems heavily leverage Web 6.0 communication 
 * **Attack-Agnostic Detection:** Demonstrated a zero-shot, attack-agnostic detection framework trained exclusively on clean sensor sequences, achieving an F1 score of 0.7206 and a 2.01% False Positive Rate on the HAI 21.03 benchmark with a lightweight 1.3M parameter footprint.
 
 <br>
-<a href="#" class="btn btn-outline">Code & Resources</a>
+<a href="https://github.com/Latchan-Ch/Intrinsic-Neural-Firewalls" class="btn btn-outline">Code & Resources</a>
 
 <hr>
 
