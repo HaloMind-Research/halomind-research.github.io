@@ -16,7 +16,7 @@ The reliability of solar energy infrastructure depends heavily on early detectio
 * **High-Performing Transparent Operations:** Achieved 80.96% overall accuracy with a Swin-Tiny backbone on the ELPV benchmark dataset while exposing interpretable decision logic and broad spatial attention mapping for critical solar farm maintenance decisions.
 
 <br>
-<a href="https://github.com/HaloMind-Research/Interpretable-Solar-Defect-Detection" class="btn btn-primary">Code & Resources</a>
+<a href="https://github.com/HaloMind-Research/Interpretable-Solar-Defect-Detection" class="btn btn-outline">Code & Resources</a>
 
 <hr>
 
