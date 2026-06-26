@@ -13,7 +13,7 @@ Spatial deepfake detectors in medical imaging typically exploit dataset-level fl
 * **Extreme Equalizer Preprocessing:** Developed an in-memory pipeline utilizing grayscale conversion, border cropping, and Gaussian blur to systematically destroy spatial dataset leakage, such as format signatures and color biases, before feature extraction.
 * **Dual-Stream CNN Architecture:** Engineered a parallel ResNet-50 framework that physically splits spatial and spectral information into different streams. A Gaussian-bottlenecked stream isolates macroscopic lesion morphology, while a Fast Fourier Transform (FFT)-magnitude stream targets periodic diffusion upsampling artifacts.
 * **Robust Out-of-Distribution (OOD) Generalization:** Demonstrated that while the standard EfficientNet-B0 baseline suffers catastrophic domain collapse (AUC 0.5494) on cross-checkpoint unseen generators, SPECTRAFORGE maintains robust domain-invariant detection with an OOD AUC of 0.9277.
-* **High-Precision Forensic Detection:** Attained a near-perfect Precision of 0.9931\0.0056 and an AUC of 0.9971\0.0016 on a strictly controlled 2,000-image clinical and synthetic dermoscopy cohort, ensuring minimal false positive quarantines in medical data ingestion pipelines.
+* **High-Precision Forensic Detection:** Attained a near-perfect Precision of 0.9931 ± 0.0056 and an AUC of 0.9971 ± 0.0016 on a strictly controlled 2,000-image clinical and synthetic dermoscopy cohort, ensuring minimal false positive quarantines in medical data ingestion pipelines.
 
 <br>
 <a href="https://github.com/HaloMind-Research/SPECTRAFORGE" class="btn btn-outline">Code & Resources</a>
