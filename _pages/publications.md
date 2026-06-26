@@ -7,8 +7,6 @@ nav: true
 nav_order: 2
 ---
 
-<div class="publications">
-
 ### [DDV-GNet: High-Throughput Defect Detection for Space Manufacturing via Deep Delta Gated Networks](/publications/ddv-gnet/)
 L. Chhetri, A. Kumar. (2026). "DDV-GNet: High-Throughput Defect Detection for Space Manufacturing via Deep Delta Gated Networks." IEEE SPACE (Accepted for Oral Presentation).
 
@@ -41,5 +39,3 @@ A. Mukherjee, A. Kumar, S. R. Verma, H. Das, L. Chhetri. (2026). "Risk-Controlle
 
 ### [Interpretable Solar Panel Defect Detection via Fuzzy Rule Extraction from Deep Learning Architectures](/publications/solar-defect/)
 S. R. Verma, A. Kumar, A. Anand, H. Das, L. Chhetri. (2026). "Interpretable Solar Panel Defect Detection via Fuzzy Rule Extraction from Deep Learning Architectures." ICCI (Under Review).
-
-</div>
