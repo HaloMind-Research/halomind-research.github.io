@@ -50,6 +50,10 @@ S. R. Verma, A. Kumar, A. Anand, H. Das, L. Chhetri. (2026). "Interpretable Sola
 *Research conducted by Halo Mind members in collaboration with university Principal Investigators (PIs).*
 <br><br>
 
+### [ClearVision: A Physics-Informed Lightweight GAN for Real-Time Enhancement of Turbid Underwater Imagery](/publications/clearvision/)
+R. Singh, D. Das, A. Pradhan. (2026). "ClearVision: A Physics-Informed Lightweight GAN for Real-Time Enhancement of Turbid Underwater Imagery." IEEE OCEANS (Accepted for Oral Presentation).
+
+
 ### [Attention-Enhanced Swin Transformers for Robust Brain Tumor Classification Under Patient-Level Data Splitting](/publications/swin-tumor/)
 L. Chhetri, A. Datta, P. Ghosal. (2026). "Attention-Enhanced Swin Transformers for Robust Brain Tumor Classification Under Patient-Level Data Splitting." IEEE GCON (Accepted).
 
