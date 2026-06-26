@@ -16,7 +16,7 @@ Deploying AI-based diagnostic tools in resource-constrained healthcare settings 
 * **Clinical Robustness:** Maintained consistent diagnostic safety and robustness across relaxed confidence thresholds, overcoming the brittleness of standard semi-supervised methods while retaining high accuracy utilizing 80% fewer labeled samples.
 
 <br>
-<a href="https://github.com/HaloMind-Research/SafeMed-SSL" class="btn btn-sm btn-outline">Code & Resources</a>
+<a href="https://github.com/HaloMind-Research/SafeMed-SSL" class="btn btn-primary">Code & Resources</a>
 
 <hr>
 
