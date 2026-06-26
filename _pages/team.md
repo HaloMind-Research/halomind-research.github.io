@@ -38,7 +38,7 @@ description: The core execution team and active contributors of the Halo Mind Re
     <img src="{{ '/assets/img/pic5.jpeg' | relative_url }}" class="img-fluid rounded-circle z-depth-1" alt="Dishant Das" style="max-width: 150px; aspect-ratio: 1/1; object-fit: cover;">
   </div>
   <div class="col-sm-9">
-    <h4 class="mt-2">Dishant Das <span style="font-size: 0.7em; color: gray;">— Research Engineer</span></h4>
+    <h4 class="mt-2">Dishant Das <span style="font-size: 0.7em; color: gray;">— Research Scientist</span></h4>
     <p style="margin-bottom: 5px;"><strong>Focus:</strong> Physics-Informed Vision Models, Edge AI Optimization, Generative Architectures.<br>
     <strong>Email:</strong> <a href="mailto:dasdishant5@gmail.com">dasdishant5@gmail.com</a></p>
     <p>Engineers lightweight computer vision architectures for extreme environments. Specializes in hardware-level model optimization (TensorRT, edge power budgets) and contributes to the core development of geometric residual learning frameworks like DDL-Mamba.</p>
