@@ -15,7 +15,7 @@ This work fills an important gap in the literature on brain tumor classification
 * **"Destructive vs. Constructive" Taxonomy:** Proposed a new preprocessing classification scheme demonstrating that context-removing methods (like skull stripping) severely degrade accuracy when combined with augmentation, while structure-preserving approaches (like bilateral filtering) enhance signal-to-noise ratios.
 
 <br>
-<a href="https://github.com/HaloMind-Research/Optimizing-Deep-Learning-for-Brain-Tumor-Classification" class="btn btn-sm btn-outline">Code & Resources</a>
+<a href="https://github.com/HaloMind-Research/Optimizing-Deep-Learning-for-Brain-Tumor-Classification" class="btn btn-primary">Code & Resources</a>
 
 <hr>
 
