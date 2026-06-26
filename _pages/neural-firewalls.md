@@ -10,7 +10,7 @@ Modern Industrial Cyber-Physical Systems heavily leverage Web 6.0 communication 
 
 ### Key Methodologies & Contributions
 * **Intrinsic Defense Architecture:** Proposed the Deep Delta Learning Firewall (DDL-FW), an internal defense mechanism for Cyber-Physical Systems that replaces standard additive residual connections with a depth-wise read-compare-write routine based on Deep Delta Learning principles.
-* **Zero-Cost Anomaly Scoring:** Generated an intrinsic anomaly score ($A = \sum ||v - k \cdot X||_{2}$) as a free byproduct of the forward pass, utilizing accumulating residual errors without requiring external detection modules or additional computational latency.
+* **Zero-Cost Anomaly Scoring:** Generated an intrinsic anomaly score as a free byproduct of the forward pass, utilizing accumulating residual errors without requiring external detection modules or additional computational latency.
 * **Expanded-State Memory Quarantine:** Implemented a four-channel expanded memory state ($d_{v}=4$) that isolates adversarial perturbations at layer boundaries, preventing contamination from propagating into the global compute stream.
 * **Attack-Agnostic Detection:** Demonstrated a zero-shot, attack-agnostic detection framework trained exclusively on clean sensor sequences, achieving an F1 score of 0.7206 and a 2.01% False Positive Rate on the HAI 21.03 benchmark with a lightweight 1.3M parameter footprint.
 
