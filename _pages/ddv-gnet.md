@@ -17,7 +17,7 @@ Real-time defect detection for space manufacturing and satellite components' qua
 * **SOTA Efficiency-Accuracy Trade-off:** Delivered 87.91% classification accuracy across 12 highly imbalanced solar panel defect classes with a lightweight footprint of just 7.18M parameters. This maintains linear computational complexity while operating 12x faster than competing Vision Transformer models.
 <br>
 
-<a href="https://github.com/HaloMind-Research/DDV-GNet-Space" class="btn btn-primary">Code & Resources</a>
+<a href="https://github.com/HaloMind-Research/DDV-GNet-Space" class="btn btn-outline">Code & Resources</a>
 
 <hr>
 
