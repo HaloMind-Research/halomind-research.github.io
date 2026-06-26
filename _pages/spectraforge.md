@@ -16,7 +16,7 @@ Spatial deepfake detectors in medical imaging typically exploit dataset-level fl
 * **High-Precision Forensic Detection:** Attained a near-perfect Precision of 0.9931\0.0056 and an AUC of 0.9971\0.0016 on a strictly controlled 2,000-image clinical and synthetic dermoscopy cohort, ensuring minimal false positive quarantines in medical data ingestion pipelines.
 
 <br>
-<a href="#" class="btn btn-outline">Code & Resources</a>
+<a href="https://github.com/HaloMind-Research/SPECTRAFORGE" class="btn btn-outline">Code & Resources</a>
 
 <hr>
 
