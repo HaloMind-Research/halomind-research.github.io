@@ -1,6 +1,6 @@
 ---
 layout: page
-title: DDV-GNet: High-Throughput Defect Detection for Space Manufacturing via Deep Delta Gated Networks
+title: "DDV-GNet: High-Throughput Defect Detection for Space Manufacturing via Deep Delta Gated Networks"
 permalink: /publications/ddv-gnet/
 ---
 
