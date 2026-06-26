@@ -16,7 +16,7 @@ Real-time land cover classification on autonomous satellites requires models tha
 * **Architectural Ablation:** Conducted a controlled ablation experiment confirming that removing the Deep Delta block abolishes all residual connections and triggers a 58.38 percentage-point accuracy drop, validating its necessity as the architectural backbone.
 
 <br>
-<a href="https://github.com/HaloMind-Research/DDV-Mamba_for_Efficient_Remote_Sensing" class="btn btn-primary">Code & Resources</a>
+<a href="https://github.com/HaloMind-Research/DDV-Mamba_for_Efficient_Remote_Sensing" class="btn btn-outline">Code & Resources</a>
 
 <hr>
 
