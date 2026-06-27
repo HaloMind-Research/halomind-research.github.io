@@ -11,7 +11,7 @@ contact_note: >
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   An independent research group specializing in efficient deep learning, sequence modeling, sub-quadratic State Space Models, NLP, algorithmic robustness and more..
 footer_text: >
- AI, Deep Learning, State Space Models, NLP, Computer Vision, Edge AI, Research, and more..
+ AI, Deep Learning, State Space Models, NLP, Computer Vision, Edge AI, Research, more..
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 📝 # the emoji used as the favicon (alternatively, provide image name in /assets/img/) 
 
