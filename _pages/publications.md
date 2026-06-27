@@ -66,4 +66,4 @@ R. Das, L. Chhetri, A. Kumar, P. Ghosal. (2026). "Intrinsic Neural Firewalls for
 <hr>
 
 ### [Benchmarking GAN Architectures for Underwater Imaging: The Trade-off Between Model Compactness and Real-Time Latency](/publications/underwater-gan-analysis/)
-D. Das, R. Singh, A. Pradhan, P. Ghosal. (2026). "Benchmarking GAN Architectures for Underwater Imaging: The Trade-off Between Model Compactness and Real-Time Latency." (Presented).
+D. Das, R. Singh, A. Pradhan, P. Ghosal. (2026). "Benchmarking GAN Architectures for Underwater Imaging: The Trade-off Between Model Compactness and Real-Time Latency." IEEE GCON (Accepted).
