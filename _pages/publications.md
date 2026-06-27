@@ -62,3 +62,8 @@ L. Chhetri, A. Datta, P. Ghosal. (2026). "Attention-Enhanced Swin Transformers f
 
 ### [Intrinsic Neural Firewalls for Cyber-Physical Systems: Robust Anomaly Rejection via Deep Delta Residual Overwrites](/publications/neural-firewalls/)
 R. Das, L. Chhetri, A. Kumar, P. Ghosal. (2026). "Intrinsic Neural Firewalls for Cyber-Physical Systems: Robust Anomaly Rejection via Deep Delta Residual Overwrites." WIN 6.0 (Accepted for Oral Presentation).
+
+<hr>
+
+### [Benchmarking GAN Architectures for Underwater Imaging: The Trade-off Between Model Compactness and Real-Time Latency](/publications/underwater-gan-analysis/)
+D. Das, R. Singh, A. Pradhan, P. Ghosal. (2026). "Benchmarking GAN Architectures for Underwater Imaging: The Trade-off Between Model Compactness and Real-Time Latency." (Presented).
