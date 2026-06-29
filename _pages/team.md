@@ -28,7 +28,7 @@ description: The core execution team and active contributors of the Halo Mind Re
   </div>
   <div class="col-sm-9">
     <h4 class="mt-2">Aman Kumar <span style="font-size: 0.7em; color: gray;">— Co-Founder & Head of Engineering</span></h4>
-    <p style="margin-bottom: 5px;"><strong>Focus:</strong> Pipeline Optimization, ML Systems Optimization, Conformal Prediction, Edge Deployment, Coding.<br>
+    <p style="margin-bottom: 5px;"><strong>Focus:</strong> Pipeline Optimization, ML Systems Optimization, Conformal Prediction, Coding.<br>
       <strong>Portfolio:</strong> <a href="https://amankumar12s.github.io">amankumar12s.github.io</a> | <strong>Email:</strong> <a href="mailto:ak2281198@gmail.com">ak2281198@gmail.com</a></p>
     <p>Translates theoretical architectures into robust, hardware-optimized production code. Manages complex spatial data pipelines and integrates advanced statistical frameworks to establish provable reliability and scalable infrastructure for edge-AI applications.</p>
   </div>
