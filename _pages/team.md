@@ -64,7 +64,7 @@ description: The core execution team and active contributors of the Halo Mind Re
 
 
 <br>
-### Systems & Infrastructure Operations
+### Infrastructure Operations
 <hr>
 
 <div class="row mb-5">
