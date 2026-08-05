@@ -36,7 +36,7 @@ L. Chhetri, A. Kumar. (2026). "Beyond Limited Labels: Safe Semi-Supervised Learn
 <hr>
 
 ### [Risk-Controlled Urban Change Detection: Conformal Prediction Wrappers for Provable Reliability in High-Resolution Satellite Imagery](/publications/urban-change-cp/)
-A. Mukherjee, A. Kumar, S. R. Verma, H. Das, L. Chhetri. (2026). "Risk-Controlled Urban Change Detection: Conformal Prediction Wrappers for Provable Reliability in High-Resolution Satellite Imagery." ICCI (Under Review).
+A. Mukherjee, A. Kumar, S. R. Verma, H. Das, L. Chhetri. (2026). "Risk-Controlled Urban Change Detection: Conformal Prediction Wrappers for Provable Reliability in High-Resolution Satellite Imagery." ICCI (Accepted for Oral Presentation).
 
 <hr>
 
