@@ -10,6 +10,11 @@ nav_order: 2
 ## Core Group Research
 <br><br>
 
+### [SPECTRAFORGE: Domain-Equalized Frequency-Spatial Fusion for Synthetic Dermatology Detection](/publications/spectraforge/)
+A. Kumar, L. Chhetri, D. Das. (2026). "SPECTRAFORGE: Domain-Equalized Frequency-Spatial Fusion for Synthetic Dermatology Detection." IEEE DSAA (Core-A tier) (Accepted).
+
+<hr>
+
 ### [DDV-GNet: High-Throughput Defect Detection for Space Manufacturing via Deep Delta Gated Networks](/publications/ddv-gnet/)
 L. Chhetri, A. Kumar. (2026). "DDV-GNet: High-Throughput Defect Detection for Space Manufacturing via Deep Delta Gated Networks." IEEE SPACE (Accepted for Oral Presentation).
 
@@ -25,23 +30,18 @@ L. Chhetri, A. Kumar. (2026). "Optimizing Deep Learning for Brain Tumor Classifi
 
 <hr>
 
-### [SPECTRAFORGE: Domain-Equalized Frequency-Spatial Fusion for Synthetic Dermatology Detection](/publications/spectraforge/)
-A. Kumar, L. Chhetri, D. Das. (2026). "SPECTRAFORGE: Domain-Equalized Frequency-Spatial Fusion for Synthetic Dermatology Detection." IEEE DSAA (Under Review).
-
-<hr>
-
 ### [Beyond Limited Labels: Safe Semi-Supervised Learning for Malaria Diagnosis](/publications/malaria-ssl/)
-L. Chhetri, A. Kumar. (2026). "Beyond Limited Labels: Safe Semi-Supervised Learning for Malaria Diagnosis." IEEE DSAA (Under Review).
+L. Chhetri, A. Kumar. (2026). "Beyond Limited Labels: Safe Semi-Supervised Learning for Malaria Diagnosis." ICVGIP (Under Review).
 
 <hr>
 
 ### [Risk-Controlled Urban Change Detection: Conformal Prediction Wrappers for Provable Reliability in High-Resolution Satellite Imagery](/publications/urban-change-cp/)
-A. Mukherjee, A. Kumar, S. R. Verma, H. Das, L. Chhetri. (2026). "Risk-Controlled Urban Change Detection: Conformal Prediction Wrappers for Provable Reliability in High-Resolution Satellite Imagery." ICCI (Accepted for Oral Presentation).
+A. Mukherjee, A. Kumar, S. Bala, S. R. Varma, A. Anand, H. Das, L. Chhetri. (2026). "Risk-Controlled Urban Change Detection: Conformal Prediction Wrappers for Provable Reliability in High-Resolution Satellite Imagery." ICCI (Accepted for Oral Presentation).
 
 <hr>
 
 ### [Interpretable Solar Panel Defect Detection via Fuzzy Rule Extraction from Deep Learning Architectures](/publications/solar-defect/)
-S. R. Verma, A. Kumar, A. Anand, H. Das, L. Chhetri. (2026). "Interpretable Solar Panel Defect Detection via Fuzzy Rule Extraction from Deep Learning Architectures." ICCI (Under Review).
+A. Kumar, A. Anand, H. Das, L. Chhetri. (2026). "Interpretable Solar Panel Defect Detection via Fuzzy Rule Extraction from Deep Learning Architectures." ICVGIP (Under Review).
 
 <hr>
 <br><br>
