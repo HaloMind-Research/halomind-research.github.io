@@ -20,18 +20,8 @@ L. Chhetri, A. Kumar. (2026). "DDV-GNet: High-Throughput Defect Detection for Sp
 
 <hr>
 
-### [Deep Delta Vision Mamba: A Lightweight State Space Architecture with Deep Delta Learning for Efficient Remote Sensing](/publications/ddv-mamba/)
-L. Chhetri, A. Kumar. (2026). "Deep Delta Vision Mamba: A Lightweight State Space Architecture with Deep Delta Learning for Efficient Remote Sensing." IEEE CONECCT (Accepted).
-
-<hr>
-
 ### [Optimizing Deep Learning for Brain Tumor Classification: A Comparative Ablation Study of Preprocessing and Augmentation Strategies](/publications/brain-tumor-optimizing/)
 L. Chhetri, A. Kumar. (2026). "Optimizing Deep Learning for Brain Tumor Classification: A Comparative Ablation Study of Preprocessing and Augmentation Strategies." IEEE GCON (Accepted).
-
-<hr>
-
-### [Beyond Limited Labels: Safe Semi-Supervised Learning for Malaria Diagnosis](/publications/malaria-ssl/)
-L. Chhetri, A. Kumar. (2026). "Beyond Limited Labels: Safe Semi-Supervised Learning for Malaria Diagnosis." ICVGIP (Under Review).
 
 <hr>
 
@@ -40,8 +30,18 @@ A. Mukherjee, A. Kumar, S. Bala, S. R. Varma, A. Anand, H. Das, L. Chhetri. (202
 
 <hr>
 
-### [Interpretable Solar Panel Defect Detection via Fuzzy Rule Extraction from Deep Learning Architectures](/publications/solar-defect/)
-A. Kumar, A. Anand, H. Das, L. Chhetri. (2026). "Interpretable Solar Panel Defect Detection via Fuzzy Rule Extraction from Deep Learning Architectures." ICVGIP (Under Review).
+### [DeltaGate-CNN: A Lightweight Convolutional Architecture for Efficient Remote Sensing Image Classification](/publications/ddv-mamba/)
+L. Chhetri, A. Kumar, P. Ghosal. (2026). "DeltaGate-CNN: A Lightweight Convolutional Architecture for Efficient Remote Sensing Image Classification." IEEE INDICON (Under Review).
+
+<hr>
+
+### [Interpretable Solar Panel Defect Detection via Fuzzy Rule Extraction from Hierarchical Vision Models](/publications/solar-defect/)
+L. Chhetri, A. Kumar, D. Das, P. Ghosal. (2026). "Interpretable Solar Panel Defect Detection via Fuzzy Rule Extraction from Hierarchical Vision Models." ICVGIP (Under Review).
+
+<hr>
+
+### [Beyond Limited Labels: Safe Semi-Supervised Learning for Malaria Diagnosis](/publications/malaria-ssl/)
+A. Kumar, L. Chhetri, A. Anand, H. Das, A. Mukherjee. (2026). "Beyond Limited Labels: Safe Semi-Supervised Learning for Malaria Diagnosis." ICVGIP (Under Review).
 
 <hr>
 <br><br>
