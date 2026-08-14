@@ -15,7 +15,7 @@ description: The core execution team and active contributors of the Halo Mind Re
     <img src="{{ '/assets/img/pic1.jpeg' | relative_url }}" class="img-fluid rounded-circle z-depth-1" alt="Latchan Chhetri" style="max-width: 150px; aspect-ratio: 1/1; object-fit: cover;">
   </div>
   <div class="col-sm-9">
-    <h4 class="mt-2">Latchan Chhetri <span style="font-size: 0.7em; color: gray;">— Co-Founder & Chief AI Scientist</span></h4>
+    <h4 class="mt-2">Latchan Chhetri <span style="font-size: 0.7em; color: gray;">— Founder & Chief AI Researcher</span></h4>
     <p style="margin-bottom: 5px;"><strong>Focus:</strong> Theoretical Formulation, AI Strategy, Foundational Architectures, Computer Vision, Sub-quadratic Mechanisms (SSMs), Coding, Strategist.<br>
       <strong>Portfolio:</strong> <a href="https://latchan-ch.github.io">latchan-ch.github.io</a> | <strong>Email:</strong> <a href="mailto:latchanchhetri19@gmail.com">latchanchhetri19@gmail.com</a></p>
     <p>Directs the overarching scientific and commercial vision of Halo Mind. Specializes in engineering hardware-efficient neural mechanisms, computer vision, foundational deep sequence modeling, and architecting real-world physical AI deployments. Leads the core algorithmic strategy for the company's enterprise vision systems.</p>
