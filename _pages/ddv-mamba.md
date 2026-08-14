@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "Deep Delta Vision Mamba: A Lightweight State Space Architecture with Deep Delta Learning for Efficient Remote Sensing"
+title: "DeltaGate-CNN: A Lightweight Convolutional Architecture for Efficient Remote Sensing Image Classification"
 permalink: /publications/ddv-mamba/
 ---
 
 ### Abstract
-Real-time land cover classification on autonomous satellites requires models that are accurate, lightweight, and computationally efficient within strict hardware constraints. Vision Transformers and convolutional neural networks reach state-of-the-art results on benchmarks, but their quadratic self-attention cost and large numbers of parameters make them unsuitable for edge computing. We propose Deep Delta Vision Mamba (DDV-Mamba), a hierarchical model consisting of two principled components. First, we extend the Deep Delta operator from one-dimensional to two-dimensional feature maps: each DDV block chooses to erase redundant spectral data along a learned projection direction and write discriminative data through an SSM-gated pathway, controlled by a channel-wise sigmoid gate. Second, an SSM-inspired gated aggregation module substitutes self-attention with depthwise convolution and channel-wise gating, restoring global context at linear rather than quadratic complexity. To assess deployment feasibility beyond pure accuracy, we define the Deployment Efficiency Score (DES = Accuracy×FPS / Parameters(M)), a multi-criteria score that balances model performance, speed, and efficiency. Assessed on EuroSAT, DDV-Mamba reaches 96.95% accuracy with 5.08 M parameters at 510 frames per second, achieving DES = 9733.2, a 13.1× relative improvement over ResNet50 (DES = 743.2) and 166.9× over ViT-B/16 (DES = 58.3). An ablation experiment validates the architectural necessity of the Deep Delta block, whose removal causes a 58.38 percentage-point accuracy collapse.
+Real-time land cover classification on autonomous satellites requires models that are accurate, lightweight, and computationally efficient within strict hardware constraints. Vision Transformers and convolutional neural networks reach state-of-the-art results on benchmarks, but their quadratic self-attention cost and large numbers of parameters make them unsuitable for edge computing. We propose the DeltaGate-CNN (DG-CNN), a hierarchical architecture combining two mechanisms for edge deployment. First, a Gated Depthwise Aggregation module efficiently captures local spatial context. Second, we extend the Deep Delta operator to 2D feature maps, allowing each block to selectively erase redundant spectral data and write discriminative features using a channel-wise sigmoid gate. To assess deployment feasibility beyond pure accuracy, we define the Deployment Efficiency Score (DES = Accuracy × FPS / Parameters(M)), a multi-criteria score that balances model performance, speed, and efficiency. Assessed on EuroSAT, DG-CNN reaches 96.95% accuracy with 5.08 M parameters at 510 frames per second, achieving DES = 9733.2, a 13.1× relative improvement over ResNet50 (DES = 743.2) and 166.9× over ViT-B/16 (DES = 58.3). An ablation experiment validates the architectural necessity of the Deep Delta block, whose removal causes a 58.38 percentage-point accuracy collapse.
 
 
 ### Key Methodologies & Contributions
@@ -20,4 +20,4 @@ Real-time land cover classification on autonomous satellites requires models tha
 
 <hr>
 
-**Status:** Accepted at IEEE CONECCT, 2026. **Authors:** L. Chhetri, A. Kumar
+**Status:** Under Review at IEEE INDICON, 2026. **Authors:** L. Chhetri, A. Kumar, P. Ghosal
