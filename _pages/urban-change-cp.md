@@ -20,4 +20,4 @@ Satellite-based urban change detection enables an emerging generation of geospat
 
 <hr>
 
-**Status:** Under Review at ICCI, 2026. **Authors:** A. Mukherjee, A. Kumar, S. Bala, S. R. Verma, A. Anand, H. Das, L. Chhetri
+**Status:** Accepted for Oral Presentation at ICCI, 2026. **Authors:** A. Mukherjee, A. Kumar, S. Bala, S. R. Verma, A. Anand, H. Das, L. Chhetri
