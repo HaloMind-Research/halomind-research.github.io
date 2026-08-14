@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "Interpretable Solar Panel Defect Detection via Fuzzy Rule Extraction from Deep Learning Architectures"
+title: "Interpretable Solar Panel Defect Detection via Fuzzy Rule Extraction from Hierarchical Vision Models"
 permalink: /publications/solar-defect/
 ---
 
 ### Abstract
 
-The reliability of solar energy infrastructure depends heavily on early detection of panel defects, yet most deep learning models remain opaque, which is a serious concern when operators must trust and act on automated decisions. Motivated by this gap, we propose a novel framework that automatically extracts human-readable fuzzy logic rules from trained convolutional and transformer-based classifiers, providing transparent defect severity predictions without any manual rule engineering. We evaluate our approach on the ELPV benchmark dataset of 2,624 electroluminescence images. Results show that modern hierarchical architectures, namely Swin Transformer and ConvNeXt, achieve substantially higher feature-to-severity correlations (0.78 to 0.82) compared to classical CNNs (0.64), yielding more reliable and consistent fuzzy inference rules. Our best model, SwinTiny, achieves 80.96% overall accuracy while simultaneously generating interpretable IF-THEN decision boundaries, directly bridging the gap between high-performing black-box models and the transparency standards demanded by real-world solar farm operations.
+The reliability of the solar energy systems depends on the timely discovery of faults in panels; however, the lack of interpretability of most deep learning models can pose difficulties for users who have to trust and utilize the outcomes of automated systems. To overcome this problem, we present a new approach that automatically obtains human-understandable fuzzy rules from the latent features of trained transformers and CNN-based classification algorithms, thus providing interpretable predictions regarding the severity of defects without having to develop any explicit rules manually. The proposed methodology is tested using the ELPV benchmark dataset comprising 2,624 electroluminescence images. Experimental evidence suggests that modern hierarchical models, namely the Swin Transformer and ConvNeXt models, demonstrate significantly stronger correlation between features and severity (0.78-0.82) compared to traditional CNNs (0.64) and, therefore, can generate more reliable and consistent rules. The best performing model, namely Swin-Tiny, attains an overall accuracy of 80.96%, while simultaneously generating interpretable IF-THEN decision rules, and thus overcoming the gap between high-performance black-box models and the strict transparency standards required by real-world solar farm operations
 
 
 ### Key Methodologies & Contributions
@@ -20,4 +20,4 @@ The reliability of solar energy infrastructure depends heavily on early detectio
 
 <hr>
 
-**Status:** Under Review at ICCI, 2026. **Authors:** S. R. Verma, A. Kumar, A. Anand, H. Das, L. Chhetri
+**Status:** Under Review at ICVGIP, 2026. **Authors:** L. Chhetri, A. Kumar, D. Das, P. Ghosal
