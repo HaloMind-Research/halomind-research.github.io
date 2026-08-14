@@ -20,4 +20,4 @@ Deploying AI-based diagnostic tools in resource-constrained healthcare settings 
 
 <hr>
 
-**Status:** Under Review at IEEE DSAA, 2026. **Authors:** L. Chhetri, A. Kumar
+**Status:** Under Review at ICVGIP, 2026. **Authors:** A. Kumar, L. Chhetri, A. Anand, H. Das, A. Mukherjee
