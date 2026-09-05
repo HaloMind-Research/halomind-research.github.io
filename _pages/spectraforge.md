@@ -20,4 +20,4 @@ Spatial deepfake detectors in medical imaging typically exploit dataset-level fl
 
 <hr>
 
-**Status:** Accepted at IEEE DSAA, 2026. **Authors:** A. Kumar, L. Chhetri, D. Das
+**Status:** Accepted for Short-Oral Presentation IEEE DSAA, 2026. **Authors:** A. Kumar, L. Chhetri, D. Das
