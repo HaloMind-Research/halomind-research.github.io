@@ -11,7 +11,7 @@ nav_order: 2
 <br><br>
 
 ### [SPECTRAFORGE: Domain-Equalized Frequency-Spatial Fusion for Synthetic Dermatology Detection](/publications/spectraforge/)
-A. Kumar, L. Chhetri, D. Das. (2026). "SPECTRAFORGE: Domain-Equalized Frequency-Spatial Fusion for Synthetic Dermatology Detection." IEEE DSAA (Core-A tier) (Accepted).
+A. Kumar, L. Chhetri, D. Das. (2026). "SPECTRAFORGE: Domain-Equalized Frequency-Spatial Fusion for Synthetic Dermatology Detection." IEEE DSAA (Core-A tier) (Accepted for Short-Oral Presentation).
 
 <hr>
 
